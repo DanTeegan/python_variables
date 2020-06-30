@@ -41,10 +41,16 @@
 # create a variable called first_name and last_name
 # create a variable called full_name and display full_name
 
-first_name = input("Please enter your first name")
-last_name = input("Please enter your last name")
-full_name = (first_name + last_name)
-age = input("Please enter your age")
-adress = input("Please enter your adress")
+first_name = input("Please enter your first name: ")
+last_name = input("Please enter your last name: ")
+full_name = first_name + last_name
+display_full_name = (first_name + " " + last_name + "," + " ")
+age = (str(input("Please enter your age: ")))
+adress = input("Please enter your adress: ")
 
-print(full_name)
+x = "Hello "
+y = "you are "
+z = " years old and live at "
+
+
+print( x + display_full_name + y + age + z + adress )
