@@ -4,3 +4,7 @@
 #### Python variables
 #### What is a variable?
 #### Types of variable
+#### Data types and operators
+### Strings and casting
+### Concatenation
+
