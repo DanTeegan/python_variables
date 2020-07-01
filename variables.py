@@ -147,3 +147,5 @@ print(use_text.capitalize())
 
 # Replacing text in the string
 print(use_text.replace("with", ",")) # How you can use replace() to replace anything in a string
+
+print(use_text.startswith("h")) # Boolean value is presented weather the first letter is h or not
