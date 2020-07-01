@@ -10,21 +10,21 @@
 
 # Lets create a list of cities
 
-# cities = ["Tokyo", "Paris", "Prague", "Luxumberge"]
-# #display (print()) list the cities
-# print(cities)
-# print(type(cities))
-#
-# print(cities[3]) # This will print the string luxumberge
-# print(cities[1]) # This will print the string Paris
-# cities[3] = "Helsinki" # This will replace the string with the 3rd index with the new city input
-# print(cities)
-#
-# cities.append("Vilnius") # append() will add the new string into the list. it was add it on the end of the list
-# print(cities)
-#
-# cities.remove("Paris") # This will remove the string of Paris from the list
-# print(cities)
+cities = ["Tokyo", "Paris", "Prague", "Luxumberge"]
+#display (print()) list the cities
+print(cities)
+print(type(cities))
+
+print(cities[3]) # This will print the string luxumberge
+print(cities[1]) # This will print the string Paris
+cities[3] = "Helsinki" # This will replace the string with the 3rd index with the new city input
+print(cities)
+
+cities.append("Vilnius") # append() will add the new string into the list. it was add it on the end of the list
+print(cities)
+
+cities.remove("Paris") # This will remove the string of Paris from the list
+print(cities)
 
 
 # cities = ["Tokyo", "Paris", "Prague", "Luxumberge"]
