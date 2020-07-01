@@ -1,6 +1,6 @@
 # What is control flow?
 
-# conditional statments and loops
+# conditional statements and loops
 
 # if, elif, else, for loop, while loop
 
