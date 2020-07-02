@@ -50,3 +50,5 @@ for x in student_record:
 # Dictionaries with employee records minimum 5 key value pairs
 # Using loop iterate through the dictionary
 # Display the values of and keys of the dictionary
+
+# Differance between for and while loops

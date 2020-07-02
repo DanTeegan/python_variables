@@ -31,7 +31,7 @@ print(cities)
 # cities.pop() # pop() would delete the last index in the list
 # print(cities)
 #
-# cities.insert(0, "Hesinki") # insert() used add a string to a list. You can choose the position of the index where it will be added
+cities.insert(0, "Hesinki") # insert() used add a string to a list. You can choose the position of the index where it will be added
 # print(cities)
 
 # mix_type_string = [1,2,3, "one", "two", "three"]
